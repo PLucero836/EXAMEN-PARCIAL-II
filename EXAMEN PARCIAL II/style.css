@@ -1,0 +1,23 @@
+#titulo {
+    display: flex;
+    justify-content: center;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+    border-width: 1px;
+    color:rgb(74, 74, 192); 
+}
+.eslogan{
+    display: flex;
+    justify-content: center;
+    color: blue;
+}
+.eslogan{
+    display: flex;
+    align-items: center;
+    
+
+}
+.prueba{ 
+    background-color: aqua;
+}
